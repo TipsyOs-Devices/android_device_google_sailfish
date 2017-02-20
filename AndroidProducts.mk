@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/carbon_sailfish.mk
+	$(LOCAL_DIR)/tipsy_sailfish.mk
